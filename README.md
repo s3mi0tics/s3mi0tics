@@ -35,7 +35,7 @@ Welcome to my GitHub!</h1>
 </details>
 
 # I am here to code.
-<h2 style="padding-top: 20px; text-decoration: underline">GitHub Statistics</h2>
+
 <p align="center" style="padding-top: 20px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=s3mi0tics&show_icons=true&theme=merko&line_height=27" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3mi0tics&theme=merko&hide=html,css, shell">
