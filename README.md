@@ -36,3 +36,5 @@ Welcome to my GitHub!</h1>
 
 # I am here to code.
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=s3mi0tics&show_icons=true&count_private=true" align="center" /></div>
+
