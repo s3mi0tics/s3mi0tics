@@ -5,7 +5,7 @@ Welcome to my GitHub!</h1>
 
     My name is Colby Kauk
 
->I'm a driven *full-stack web developer* and recent graduate from Coding Dojo with proficiency in __Python, Java, React/Node.js.__ Trained using __MySQL and mongoDB__
+I'm a driven *full-stack web developer* and recent graduate from Coding Dojo with proficiency in __Python, Java, React/Node.js.__ Trained using __MySQL and mongoDB__
 
 ## I enjoy coding. 
 
