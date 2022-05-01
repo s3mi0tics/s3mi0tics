@@ -6,7 +6,7 @@ Welcome to my GitHub!</h1>
     My name is Colby Kauk
 
 <p align = "center">
-![Image Credit: ](https://images.unsplash.com/photo-1630354237022-2904771d8767?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8d2hhbGUlMjBmbHVrZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60)
+![Image Credit: ](bMieozQvHeU.avif)
 
 <p>
 
