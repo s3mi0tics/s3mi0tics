@@ -6,7 +6,7 @@ Welcome to my GitHub!</h1>
     My name is Colby Kauk
 
 <p align = "center">
-![alt text](https://i.imgur.com/wi1HLh9.jpg?1 "Image Credit: Karl Heinz Muller")
+![Image Credit: Karl Heinz Muller](https://i.imgur.com/wi1HLh9.jpg?1)
 
 <p>
 
