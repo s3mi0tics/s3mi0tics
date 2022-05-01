@@ -3,7 +3,7 @@ Welcome to my GitHub!</h1>
 
 <p align = "center">
 
-            My name is Colby Kauk
+    My name is Colby Kauk
 
 <p align = "center">
 ![alt text](https://i.imgur.com/wi1HLh9.jpg?1 "Image Credit: Karl Heinz Muller")
@@ -11,7 +11,7 @@ Welcome to my GitHub!</h1>
 <p>
 
 
-
+>>
 I'm a driven *full-stack web developer* and recent graduate from Coding Dojo with proficiency in __Python, Java, React/Node.js.__ Trained using __MySQL and mongoDB__
 
 ## I enjoy coding. 
@@ -37,4 +37,4 @@ I'm a driven *full-stack web developer* and recent graduate from Coding Dojo wit
 </details>
 
 # I am here to code.
- # s3miOtics
+
