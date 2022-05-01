@@ -5,11 +5,6 @@ Welcome to my GitHub!</h1>
 
     My name is Colby Kauk
 
-<p align = "center">
-![Image Credit: Karl Heinz Muller. "Humpback Whale showing its fluke shortly before diving. Photo taken in the mist of an early warmer morning late August." ](karl-heinz-muller-bMieozQvHeU-unsplash Medium.png)
-
-<p>
-
 >I'm a driven *full-stack web developer* and recent graduate from Coding Dojo with proficiency in __Python, Java, React/Node.js.__ Trained using __MySQL and mongoDB__
 
 ## I enjoy coding. 
