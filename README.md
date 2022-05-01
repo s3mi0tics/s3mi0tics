@@ -6,7 +6,7 @@ Welcome to my GitHub!</h1>
     My name is Colby Kauk
 
 <p align = "center">
-![Image Credit: ](bMieozQvHeU.avif)
+![Image Credit: Karl Heinz Muller. "Humpback Whale showing its fluke shortly before diving. Photo taken in the mist of an early warmer morning late August." ](karl-heinz-muller-bMieozQvHeU-unsplash.jpg)
 
 <p>
 
