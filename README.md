@@ -26,7 +26,7 @@ I'm a driven *full-stack web developer* and recent graduate from Coding Dojo wit
 - Spinning poi
 - Playing music
 - Personal fitness: HIIT, HOT ROOM, BARRY'S, PELETON
-- I love listening to books and learning about the human brain, particularly its biases and shortcomings
+- I love listening to books and learning about the human brain, particularly about its biases and shortcomings
 </details>
 
 # I am here to code.
