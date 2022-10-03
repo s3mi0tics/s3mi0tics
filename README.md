@@ -26,10 +26,10 @@ I'm a driven *full-stack web developer* and recent graduate from Coding Dojo wit
 - Spinning poi
 - Playing music
 - Personal fitness: HIIT, HOT ROOM, BARRY'S, PELETON
-- I love listening to books and learning about the human brain, particularly about its biases and shortcomings
+- Listening to books and learning about how the human brain functions. Particularly in respect to its biases and shortcomings
 </details>
 
-# I am here to code.
+# Here to code.
 
 <p align="center" style="padding-top: 20px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=s3mi0tics&show_icons=true&theme=merko&line_height=27" />
