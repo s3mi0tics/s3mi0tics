@@ -9,13 +9,13 @@ I'm a driven *full-stack web developer* and recent graduate from Coding Dojo wit
 
 ## I enjoy coding. 
 
-### I believe that I can make the world a better place
-### I believe that I can get a little better everyday
-#### I love challenges
-#### I love finding solutions
-#### I love learning new languages
-#### I love working on teams
-#### I enjoy living in different countries
+### Driven to make the world a better place through kindness and grit
+### Dedicated to getting a little better everyday
+#### Embracing challenges
+#### Diligently searching for solutions
+#### Constantly learning new languages
+#### Enjoying working with others
+
 <details>
 <summary>Other hobbies:
 </summary>
