@@ -7,7 +7,7 @@ Welcome to my GitHub!</h1>
 
 I'm a driven *full-stack web developer* and recent graduate from Coding Dojo with proficiency in __Python, Java, React/Node.js.__ Trained using __MySQL and MongoDB__
 
-## I enjoy coding. 
+# Here to code. 
 
 ### Driven to make the world a better place through kindness and grit
 ### Dedicated to getting a little better everyday
@@ -28,8 +28,6 @@ I'm a driven *full-stack web developer* and recent graduate from Coding Dojo wit
 - Personal fitness: HIIT, HOT ROOM, BARRY'S, PELETON
 - Listening to books and learning about how the human brain functions. Particularly in respect to its biases and shortcomings
 </details>
-
-# Here to code.
 
 <p align="center" style="padding-top: 20px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=s3mi0tics&show_icons=true&theme=merko&line_height=27" />
