@@ -25,7 +25,7 @@ I'm a driven *full-stack web developer* and recent graduate from Coding Dojo wit
 - Juggling
 - Spinning poi
 - Playing music
-- Personal fitness: HIIT, HOT ROOM, BARRY'S, PELETON
+- Personal fitness: HIIT, HOT ROOM, BARRY'S, PELOTON
 - Listening to books and learning about how the human brain functions. Particularly in respect to its biases and shortcomings
 </details>
 
