@@ -8,7 +8,13 @@ Welcome to my GitHub!</h1>
 I'm a driven *full-stack web developer* and recent graduate from Coding Dojo with proficiency in __Python, Java, React/Node.js.__ Trained using __MySQL and MongoDB__
 
 # Here to code. 
+    
+## What I am woking on at the moment
+    [LeetCode Explore Card]("https://github.com/s3mi0tics/LeetCode_Explore_Cards") algorithms, to improve my foundational knowledge of data structures and algorythms
+    [Portfolio_Website]("https://github.com/s3mi0tics/Portfolio_Website") Will have my personal portfolio website up soon.
 
+## What I strive for
+    
 ### Driven to make the world a better place through kindness and grit
 ### Dedicated to getting a little better everyday
 #### Embracing challenges
@@ -24,9 +30,9 @@ I'm a driven *full-stack web developer* and recent graduate from Coding Dojo wit
 - Handstands 
 - Juggling
 - Spinning poi
-- Playing music
+- Playing music, specifically the Brazilian pandeiro and samba
 - Personal fitness: HIIT, HOT ROOM, BARRY'S, PELOTON
-- Listening to books and learning about how the human brain functions. Particularly in respect to its biases and shortcomings
+- Listening to books and learning about how the human brain functions. Particularly interested in its biases and shortcomings.
 </details>
 
 <p align="center" style="padding-top: 20px">
@@ -37,7 +43,7 @@ I'm a driven *full-stack web developer* and recent graduate from Coding Dojo wit
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=s3mi0tics&show_icons=true&locale=en&layout=compact&theme=merko&line_height=0"> 
 </p>
 <h2 style="text-decoration: underline">Contact Me:</h2>
-<p justify-content="space-evenly" align="center">
+<p style="display: flex; justify-content: space-evenly; align-items: center;>
     <a href="mailto:colby.kauk@gmail.com?subject=Hello from your GitHub page!" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-GMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=E45139"/>
     </a>
