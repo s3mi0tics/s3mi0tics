@@ -10,7 +10,9 @@ I'm a driven *full-stack web developer* and recent graduate from Coding Dojo wit
 # Here to code. 
     
 ## What I am woking on at the moment
+    
     [LeetCode Explore Card]("https://github.com/s3mi0tics/LeetCode_Explore_Cards") algorithms, to improve my foundational knowledge of data structures and algorythms
+    
     [Portfolio_Website]("https://github.com/s3mi0tics/Portfolio_Website") Will have my personal portfolio website up soon.
 
 ## What I strive for
