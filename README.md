@@ -46,6 +46,8 @@ I'm a driven *full-stack web developer* and recent graduate from Coding Dojo wit
 <p align="center" style="border-bottom: 1px solid gray; padding-bottom: 40px"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=s3mi0tics&show_icons=true&locale=en&layout=compact&theme=merko&line_height=0"> 
 </p>
+
+<hr /> 
 <h2 style="text-decoration: underline">Contact Me:</h2>
 <p align ="center">
     <a href="mailto:colby.kauk@gmail.com?subject=Hello from your GitHub page!" target="_blank" rel="noopener noreferrer">
