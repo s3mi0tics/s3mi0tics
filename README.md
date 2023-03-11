@@ -37,6 +37,8 @@ I'm a driven *full-stack web developer* and recent graduate from Coding Dojo wit
 - Listening to books and learning about how the human brain functions. Particularly interested in its biases and shortcomings.
 </details>
 
+<hr />
+
 <p align="center" style="padding-top: 20px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=s3mi0tics&show_icons=true&theme=merko&line_height=27" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3mi0tics&theme=merko&hide=html,css, shell">
