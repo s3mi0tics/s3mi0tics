@@ -46,7 +46,7 @@ I am a dedicated parent raising two boys. I strive to raise them in a way that f
 
 <p align="center" style="padding-top: 20px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=s3mi0tics&show_icons=true&theme=merko&line_height=27" alt="github stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3mi0tics&theme=merko&hide=html,css, shell"  alt="top languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3mi0tics&theme=merko&hide=html,css,shell"  alt="top languages" />
 </p>
 <p align="center" style="border-bottom: 1px solid gray; padding-bottom: 40px"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=s3mi0tics&show_icons=true&locale=en&layout=compact&theme=merko&line_height=0"> 
