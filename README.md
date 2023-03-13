@@ -3,15 +3,20 @@ Welcome to my GitHub!</h1>
 
 <p align = "center">
 
-    My name is Colby Kauk
+    My name is Colby Kauk and the value lies in the relationship.
 
+My journey as a developer started in the fall of 2022 when I joined The Coding Dojo Bootcamp. I am dedicated to putting in *what ever it takes* to continue to grow and develop until I can make a positive impact on others lives through my craft as a coder. 
+    
 I'm a driven *full-stack web developer* and recent graduate from Coding Dojo with proficiency in __Python, Java, React/Node.js.__ Trained using __MySQL and MongoDB__
 
 # Here to code. 
     
 ## What I am woking on at the moment
+
+I am a dedicated parent raising two boys. I strive to raise them in a way that fosters resiliency, grit, and determination, while also emphasizing the importance of kindness and connection. My family is my top priority and provides me with the motivation and inspiration to continue pushing forward in all aspects of my life.
     
-[LeetCode Explore Card](https://github.com/s3mi0tics/LeetCode_Explore_Cards) algorithms, to improve my foundational knowledge of data structures and algorythms
+[LeetCode Explore Card](https://leetcode.com/s3mi0tics/) algorithms, to improve my foundational knowledge of data structures and algorythms
+[GitHub Solutions](https://github.com/s3mi0tics/LeetCode_Explore_Cards)
     
 [Portfolio_Website](https://github.com/s3mi0tics/Portfolio_Website) My personal portfolio website is comming soon. For now here is the code
 
