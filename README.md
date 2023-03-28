@@ -5,7 +5,7 @@ Welcome to my GitHub!</h1>
 
     My name is Colby Kauk and the value lies in the relationship.
 
-My journey as a developer started in the fall of 2022 when I joined The Coding Dojo Bootcamp. I am dedicated to putting in *what ever it takes* to continue to grow and develop until I can make a positive impact on others lives through my craft as a coder. 
+My journey as a developer started in the fall of 2022 when I joined The Coding Dojo Bootcamp. I am dedicated to putting in *whatever it takes* to continue to grow and develop until I can make a positive impact on others' lives through my craft as a coder. 
     
 I'm a driven *full-stack web developer* and recent graduate from Coding Dojo with proficiency in __Python, Java, React/Node.js.__ Trained using __MySQL and MongoDB__
 
