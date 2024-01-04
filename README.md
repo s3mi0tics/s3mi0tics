@@ -28,18 +28,15 @@ Just completed Harvard's CS50 course and am currently working on finding employm
 #### Constantly learning new languages
 #### Enjoying working with others
 
-<details>
-<summary>Other hobbies:
-</summary>
-<br> 
 
+Other hobbies:
+<br>
 - Handstands 
 - Juggling
 - Spinning poi
 - Playing music, specifically the Brazilian pandeiro and samba
 - Personal fitness: HIIT, HOT ROOM, BARRY'S, PELOTON
 - Listening to books and learning about how the human brain functions. Particularly interested in its biases and shortcomings.
-</details>
 
 <hr />
 
