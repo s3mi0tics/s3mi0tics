@@ -30,15 +30,13 @@ Just completed Harvard's CS50 course and am currently working on finding employm
 
 
 Other hobbies:
-<br>
+<hr>
 - Handstands 
 - Juggling
 - Spinning poi
 - Playing music, specifically the Brazilian pandeiro and samba
 - Personal fitness: HIIT, HOT ROOM, BARRY'S, PELOTON
 - Listening to books and learning about how the human brain functions. Particularly interested in its biases and shortcomings.
-
-<hr />
 
 <p align="center" style="padding-top: 20px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=s3mi0tics&show_icons=true&theme=merko&line_height=27" alt="github stats" />
