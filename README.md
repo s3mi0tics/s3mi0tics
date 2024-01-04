@@ -31,6 +31,7 @@ Just completed Harvard's CS50 course and am currently working on finding employm
 
 Other hobbies:
 <hr>
+
 - Handstands 
 - Juggling
 - Spinning poi
