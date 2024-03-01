@@ -17,7 +17,7 @@ I am a dedicated parent raising two boys. I strive to raise them in a way that f
     
 Just completed Harvard's CS50 course and am currently working on finding employment and creating a personal portfolio.
 
-[Portfolio_Website](https://github.com/s3mi0tics/Portfolio_Website) My personal portfolio website is comming soon. For now here is the code
+See my personal portfolio website here: [www.colbykauk.com](https://www.colbykauk.com)
 
 ## What I strive for
     
