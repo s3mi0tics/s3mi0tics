@@ -21,12 +21,12 @@ Technology consultant for *MEC Builds* (roofing industry), designing and impleme
 
 ## What Drives Me
 
-### Building meaningful things that make a difference  
-### Committed to getting a little better every day  
-### Embracing challenges as opportunities to grow  
-### Diligently seeking scalable, elegant solutions  
-### Continuously learning new languages and tools  
-### Motivated by collaboration and shared purpose 
+**Building meaningful things that make a difference**  
+**Committed to getting a little better every day** 
+**Embracing challenges as opportunities to grow** 
+**Diligently seeking scalable, elegant solutions**
+**Continuously learning new languages and tools** 
+**Motivated by collaboration and shared purpose**
 
 ## Hobbies & Interests
 
